@@ -1,6 +1,6 @@
 专门给 colab 使用的竞赛数据，数据源来自 kaggle。
 
-colab ：
+colab 地址
 
 [https://colab.research.google.com](https://colab.research.google.com/)
 
@@ -10,7 +10,9 @@ colab ：
 
 登录 colab，加载数据即可使用：
 
-!git clone git@github.com:jhong123/data_rossmann_store_sales.git
+```bash
+! git clone https://github.com/jhong123/data_rossmann_store_sales.git
+```
 
 
 
